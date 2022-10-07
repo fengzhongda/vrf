@@ -1,4 +1,4 @@
-module vrf
+module  github.com/fengzhongda/vrf
 
 go 1.18
 
