@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"vrf/utils"
+
+	"github.com/fengzhongda/vrf/utils"
 )
 
 func main() {
